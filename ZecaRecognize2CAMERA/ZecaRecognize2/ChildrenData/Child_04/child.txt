@@ -1,9 +1,0 @@
------ Child -----
-Code: 04
-Name: Martim
-Gender: MALE
-Date of Birth: 1/1/1999
-School: EB3Gualtar
-Reinforcement: VERBAL_MOVEMENT
-Total # Sessions: 1
-----------------------------
